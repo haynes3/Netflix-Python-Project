@@ -1,5 +1,3 @@
-#netflix
-
 ![image](https://github.com/user-attachments/assets/15bbf113-5f9f-4690-b7a7-010a3217e553)
 
 This project aims to analyze movie duration time on Netflix.
